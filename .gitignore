@@ -1,0 +1,8 @@
+**/node_modules
+**/.env
+**/.env.deploy
+**/.DS_Store
+**/dist
+**/coverage
+**/static
+error.log

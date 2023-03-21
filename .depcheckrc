@@ -1,0 +1,2 @@
+ignores: ['eslint', 'husky', 'esbuild', '@types/jest', 'esbuild-plugin-pino', 'pino-pretty', 'swagger-ui-dist', 'npm-run-all']
+skip-missing: true
